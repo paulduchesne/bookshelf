@@ -1,2 +1,2 @@
-# bookshelf
-Books on my bookshelves, linked to Wikidata.
+# Bookshelf
+Books on my bookshelf, linked to Wikidata.
